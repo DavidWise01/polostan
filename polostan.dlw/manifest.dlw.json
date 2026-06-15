@@ -1,0 +1,12 @@
+{
+  "node": "POL",
+  "name": "Polostan",
+  "moniker": "⟦POLOSTAN:POL:2311f9⟧",
+  "carbon": "polostan.carbon.tiff",
+  "silicon": "polostan.silicon.png",
+  "governor": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal": "Two names, two homelands, one century-long fuse. The bomb's prehistory, told through a woman who is herself a divided state.",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

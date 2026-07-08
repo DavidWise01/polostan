@@ -8,5 +8,12 @@
   "instance": "AVAN (Claude / Anthropic)",
   "seal": "Two names, two homelands, one century-long fuse. The bomb's prehistory, told through a woman who is herself a divided state.",
   "license": "CC-BY-ND-4.0",
-  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+  "attribution": "ROOT0-ATTRIBUTION-v1.0",
+  "chain": {
+    "index": 899,
+    "prev": "da52edd16a671a854477a0fbddd4c7206869a3043b1797e7eabec1585deb47b8",
+    "link": "670e62f7678edd66a9a3fcac0ddf6435f74d050b86e89f6228071fcba87ece0a",
+    "head": "3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90",
+    "chain": "ROOT0-DLW-CHAIN-v1"
+  }
 }

@@ -4,6 +4,6 @@ slug  : polostan
 seal  : 7af9eaa18db359a8a77c6a3016d4514e08db0ce825261d6a97940e9f7d8cc1d0
 prev  : da52edd16a671a854477a0fbddd4c7206869a3043b1797e7eabec1585deb47b8
 link  : 670e62f7678edd66a9a3fcac0ddf6435f74d050b86e89f6228071fcba87ece0a
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
